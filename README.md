@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a youtube walkthrough of implemented user stories:
+Here's a youtube walkthrough of implemented user stories, click on the picture:
 
 [![Youtube Wordle Screen recording](https://img.youtube.com/vi/ynURtW6Cz7s/0.jpg)](https://www.youtube.com/watch?v=ynURtW6Cz7s)
 
